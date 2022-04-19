@@ -9,5 +9,5 @@ docker-compose up -d
 停止
 
 ```bash
-docker-compose down --rmi all --volumes --remove-orphans
+docker-compose down
 ```
