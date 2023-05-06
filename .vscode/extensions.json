@@ -3,5 +3,7 @@
         "ms-ceintl.vscode-language-pack-ja",
         "ms-python.python",
         "ms-python.vscode-pylance",
+        "ms-python.pylint",
+        "ms-python.flake8",
     ]
 }
