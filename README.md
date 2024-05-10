@@ -11,3 +11,10 @@ docker-compose up -d
 ```bash
 docker-compose down
 ```
+
+line profiler
+
+```bash
+docker compose exec mypython kernprof -l main_profile.py
+docker compose exec mypython python -m line_profiler main_profile.py.lprof
+```
