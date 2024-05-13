@@ -1,15 +1,15 @@
-# docker-composeでpythonのデバッグを行うサンプルコード
+# docker composeでpythonのデバッグを行うサンプルコード
 
 起動
 
 ```bash
-docker-compose up -d
+docker compose up -d
 ```
 
 停止
 
 ```bash
-docker-compose down
+docker compose down
 ```
 
 line profiler
